@@ -1,0 +1,3 @@
+/home/auto/桌面/camera_calibration/build/CMakeFiles/rebuild_cache.dir
+/home/auto/桌面/camera_calibration/build/CMakeFiles/Camera_Calibration.dir
+/home/auto/桌面/camera_calibration/build/CMakeFiles/edit_cache.dir
